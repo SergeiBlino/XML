@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bug_report_structure>
-    <summary>краткое описание</summary>
-    <project>проект</project>
-    <component>компонент приложения</component>
-    <version>номер версии</version>
-    <severity>серьезность</severity>
-    <priority>приоритет</priority>
-    <steps_to_reproduce>шаги воспроизведения</steps_to_reproduce>
-    <actual_result>фактический результат</actual_result>
-    <expected_result>ожидаемый результат</expected_result>
-    <additional_information>дополнения</additional_information>
-</bug_report_structure>
-
+<my preferences>
+	<favorite movie>The Blind side</favorite movie>
+	<favorite series>Friend</favorite series>
+	<favorite food>Potato</favorite series>
+	<favorite time of year>Summer</favorite time of year>
+	<country would you like to visit> New Zeland</country would you like to visit>
+</my preference>
