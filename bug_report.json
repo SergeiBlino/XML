@@ -5,7 +5,7 @@
     <component>компонент приложения</component>
     <version>номер версии</version>
     <severity>серьезность</severity>
-    <priority>приоритет</priority>
+    <priority> приоритет</priority>
     <steps_to_reproduce>шаги воспроизведения</steps_to_reproduce>
     <actual_result>фактический результат</actual_result>
     <expected_result>ожидаемый результат</expected_result>
